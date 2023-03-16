@@ -625,8 +625,6 @@ a{
   align-items: center;
   justify-content: center;
 }
-  
-}
 
 
 .form{
@@ -672,6 +670,9 @@ a{
   padding:0 1rem;
   font-size:1.5rem;
 }
+  
+}
+
 
 footer{
   position:relative;
