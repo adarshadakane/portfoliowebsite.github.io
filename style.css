@@ -625,7 +625,7 @@ a{
   align-items: center;
   justify-content: center;
 }
-
+}
 
 .form{
   display:flex;
@@ -638,6 +638,7 @@ a{
 .formfield-container{
   width:100%;
 }
+
 
 .formfield{
   width:100%;
@@ -662,6 +663,7 @@ a{
   margin: 1rem 0;
 }
 
+
 #submit-btn:hover{
   scale:0.9;
 }
@@ -670,9 +672,6 @@ a{
   padding:0 1rem;
   font-size:1.5rem;
 }
-  
-}
-
 
 footer{
   position:relative;
